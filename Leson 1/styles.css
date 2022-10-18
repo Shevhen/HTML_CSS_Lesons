@@ -1,0 +1,28 @@
+img{
+    border-radius: 30px;
+}
+h1{
+    background-color: cadetblue;
+    color: white;
+}
+h2{
+    background-color: cadetblue;
+    color: white;
+}
+h4{
+    background-color: cadetblue;
+    color: white;
+}
+p {
+    background-color: whitesmoke;
+    color: black;
+}
+
+ul li {
+    background-color: #5f5757;
+    color: white;
+
+}
+a{
+    color: white;
+}
