@@ -1,0 +1,117 @@
+.text{
+    display: flex;
+    justify-content: space-evenly;
+}
+h1{
+    font-family: Arial;
+    font-size: 240%;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+.board{
+    flex-direction: column;
+    width: 600px;
+    height: 850px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px;
+}
+.top{
+    flex-direction: column;
+    display: flex;
+    justify-content: space-evenly;
+    width: 575px;
+    height: 175px;
+    background-color: #0269b5;
+    margin: 10px;
+    border-radius: 30px;
+}
+.midlBlocks{
+    display: flex;
+    justify-content: center;
+}
+
+.b{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    width: 178px;
+    height: 257px;
+    background-color: #024873;
+    margin: 10px;
+    border-radius: 30px;
+}
+.bottom{
+    flex-direction: column;
+    display: flex;
+    justify-content: space-evenly;
+    width: 575px;
+    height: 350px;
+    background-color: #0269b5;
+    margin: 10px;
+    border-radius: 30px;
+}
+.board0{
+    height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-top: 200px;
+
+
+}
+.left{
+    flex-direction: column;
+    display: flex;
+    justify-content: space-evenly;
+
+    width: 350px;
+    height: 400px;
+
+    margin: 10px;
+    /*border-radius: 30px;*/
+    border: solid black 1px;
+}
+.midl{
+    flex-direction: column;
+    display: flex;
+    justify-content: space-evenly;
+    width: 350px;
+    height: 400px;
+
+    margin: 10px;
+    /*border-radius: 30px;*/
+    border: solid black 1px;
+}
+.right{
+    flex-direction: column;
+    display: flex;
+    justify-content: space-evenly;
+    width: 350px;
+    height: 400px;
+
+    margin: 10px;
+    /*border-radius: 30px;*/
+    border: solid black 1px;
+}
+h2{
+    text-align: center;
+    font-family: Candara;
+    font-size: 150%;
+
+}
+.h1{
+    font-size: 200%;
+}
+button{
+    font-size: 150%;
+    background-color: white;
+    width: 180px;
+    height: 50px;
+}
+button:hover{
+    background-color: whitesmoke;
+}
