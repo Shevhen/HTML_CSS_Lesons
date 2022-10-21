@@ -63,7 +63,6 @@ button:hover{
 .circle{
     position: relative;
     top: -70px;
-
 }
 .body3{
     background-color: beige;
@@ -73,22 +72,18 @@ nav{
     flex-wrap: wrap;
     height: 50px;
     background-color: beige;
+    justify-content: space-between;
+    align-items: center;
 }
 .navLeft{
     display: flex;
     justify-content: left;
     align-items: center;
-    height: 50px;
-    width: 800px;
-    margin-left: 20px;
 }
 .navRight{
     display: flex;
     justify-content: right;
     align-items: center;
-    height: 50px;
-    width: 900px;
-
 }
 .searchWindow{
     display: flex;
