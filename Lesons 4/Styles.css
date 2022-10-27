@@ -21,7 +21,7 @@
     height: 60vh;
 }
 .block3{
-    width: 29%;
+    width: 28%;
     height: 60vh;
 }
 .block5{
@@ -39,6 +39,13 @@
 .block8{
     width: 32%;
     height: 50%;
+}
+.b5678{
+    margin-bottom: 2%;
+}
+.block9{
+    width: 29%;
+    height: 60vh;
 }
 .block11{
     width: 32%;
@@ -63,4 +70,8 @@
 .block16{
     width: 32%;
     height: 50%;
+}
+.block17{
+    width: 29%;
+    height: 60vh;
 }
